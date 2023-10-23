@@ -1,0 +1,29 @@
+C:\Users\fslea\OneDrive\Área de Trabalho\Faculdade\Quarto Período\Jaqueline\ProjetoAgenda\bin\Debug\ProjetoAgenda.exe.config
+C:\Users\fslea\OneDrive\Área de Trabalho\Faculdade\Quarto Período\Jaqueline\ProjetoAgenda\bin\Debug\ProjetoAgenda.exe
+C:\Users\fslea\OneDrive\Área de Trabalho\Faculdade\Quarto Período\Jaqueline\ProjetoAgenda\bin\Debug\ProjetoAgenda.pdb
+C:\Users\fslea\OneDrive\Área de Trabalho\Faculdade\Quarto Período\Jaqueline\ProjetoAgenda\obj\Debug\ProjetoAgenda.csproj.AssemblyReference.cache
+C:\Users\fslea\OneDrive\Área de Trabalho\Faculdade\Quarto Período\Jaqueline\ProjetoAgenda\obj\Debug\ProjetoAgenda.frmPrincipal.resources
+C:\Users\fslea\OneDrive\Área de Trabalho\Faculdade\Quarto Período\Jaqueline\ProjetoAgenda\obj\Debug\ProjetoAgenda.Properties.Resources.resources
+C:\Users\fslea\OneDrive\Área de Trabalho\Faculdade\Quarto Período\Jaqueline\ProjetoAgenda\obj\Debug\ProjetoAgenda.csproj.GenerateResource.cache
+C:\Users\fslea\OneDrive\Área de Trabalho\Faculdade\Quarto Período\Jaqueline\ProjetoAgenda\obj\Debug\ProjetoAgenda.csproj.CoreCompileInputs.cache
+C:\Users\fslea\OneDrive\Área de Trabalho\Faculdade\Quarto Período\Jaqueline\ProjetoAgenda\obj\Debug\ProjetoAgenda.exe
+C:\Users\fslea\OneDrive\Área de Trabalho\Faculdade\Quarto Período\Jaqueline\ProjetoAgenda\obj\Debug\ProjetoAgenda.pdb
+C:\Users\fslea\OneDrive\Área de Trabalho\Faculdade\Quarto Período\Jaqueline\ProjetoAgenda\obj\Debug\ProjetoAgenda.frmIncluir.resources
+C:\Users\fslea\OneDrive\Área de Trabalho\Faculdade\Quarto Período\Jaqueline\ProjetoAgenda\obj\Debug\ProjetoAgenda.frmAlterar.resources
+C:\Users\fslea\OneDrive\Área de Trabalho\Faculdade\Quarto Período\Jaqueline\ProjetoAgenda\obj\Debug\ProjetoAgenda.frmPesquisa.resources
+C:\Users\Aluno\Desktop\ProjetoAgenda\bin\Debug\ProjetoAgenda.exe.config
+C:\Users\Aluno\Desktop\ProjetoAgenda\bin\Debug\ProjetoAgenda.exe
+C:\Users\Aluno\Desktop\ProjetoAgenda\bin\Debug\ProjetoAgenda.pdb
+C:\Users\Aluno\Desktop\ProjetoAgenda\obj\Debug\ProjetoAgenda.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoAgenda\obj\Debug\ProjetoAgenda.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\ProjetoAgenda\obj\Debug\ProjetoAgenda.frmAlterar.resources
+C:\Users\Aluno\Desktop\ProjetoAgenda\obj\Debug\ProjetoAgenda.frmIncluir.resources
+C:\Users\Aluno\Desktop\ProjetoAgenda\obj\Debug\ProjetoAgenda.FrmPesquisaNome.resources
+C:\Users\Aluno\Desktop\ProjetoAgenda\obj\Debug\ProjetoAgenda.frmPrincipal.resources
+C:\Users\Aluno\Desktop\ProjetoAgenda\obj\Debug\ProjetoAgenda.Properties.Resources.resources
+C:\Users\Aluno\Desktop\ProjetoAgenda\obj\Debug\ProjetoAgenda.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\ProjetoAgenda\obj\Debug\ProjetoAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ProjetoAgenda\obj\Debug\ProjetoAgenda.exe
+C:\Users\Aluno\Desktop\ProjetoAgenda\obj\Debug\ProjetoAgenda.pdb
+C:\Users\Aluno\Desktop\ProjetoAgenda\obj\Debug\ProjetoAgenda.FrmPesquisaCidade.resources
+C:\Users\Aluno\Desktop\ProjetoAgenda\obj\Debug\ProjetoAgenda.FrmExcluir.resources
